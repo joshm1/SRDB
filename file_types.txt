@@ -1,0 +1,6 @@
+png image/png
+jpg jpeg image/jpeg
+htm html text/html
+gif image/gif
+conf cfg yml yaml rb py pl java vb log txt text/plain
+xml application/xml
